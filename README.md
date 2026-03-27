@@ -5,7 +5,7 @@ An interactive Power BI dashboard designed to analyze retail sales performance, 
 The objective of this project is to analyze retail sales data to identify top-performing and underperforming products, evaluate discount effectiveness, and understand regional sales distribution to support data-driven business decisions.
 
 📊 Dataset Used
-1. Retail Sales Dataset
+1. <a href = "https://github.com/MrKundanChaudhari/Retail-Sales-Performance-Dashboard/blob/main/Store%2BData.xlsx">DataSet</a>
 2. Fields included:
   * Product Name
   * Sales (Net Sale)
