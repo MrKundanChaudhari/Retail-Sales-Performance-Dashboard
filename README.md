@@ -32,7 +32,7 @@ The objective of this project is to analyze retail sales data to identify top-pe
    * Map Visualization
    * KPI Card
 6. Dashboard Design & Formatting
-7. DashBoard InterAction.
+7. DashBoard InterAction. <a href = "https://github.com/MrKundanChaudhari/Retail-Sales-Performance-Dashboard/blob/main/DashBoard%20SS.png">View DashBoard</a>
 
 📈 Dashboard Features
 1. Top 5 & Bottom 5 Products by Sales
