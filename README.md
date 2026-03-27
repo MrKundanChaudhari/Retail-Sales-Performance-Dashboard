@@ -2,6 +2,7 @@
 An interactive Power BI dashboard designed to analyze retail sales performance, highlighting top and bottom products, discount effectiveness, and city-wise sales distribution to support data-driven decision-making.
 
 🎯 Project Objective
+
 The objective of this project is to analyze retail sales data to identify top-performing and underperforming products, evaluate discount effectiveness, and understand regional sales distribution to support data-driven business decisions.
 
 📊 Dataset Used
@@ -31,6 +32,7 @@ The objective of this project is to analyze retail sales data to identify top-pe
    * Map Visualization
    * KPI Card
 6. Dashboard Design & Formatting
+7. DashBoard InterAction.
 
 📈 Dashboard Features
 1. Top 5 & Bottom 5 Products by Sales
